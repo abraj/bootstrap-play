@@ -21,3 +21,7 @@
 ## Alerts
 * [Demo link](demo/04.html)
 * https://getbootstrap.com/docs/4.1/components/alerts/
+
+## Badges
+* [Demo link](demo/05.html)
+* https://getbootstrap.com/docs/4.1/components/badge/
