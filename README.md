@@ -25,3 +25,15 @@
 ## Badges
 * [Demo link](demo/05.html)
 * https://getbootstrap.com/docs/4.1/components/badge/
+
+## Breadcrumb
+* [Demo link](demo/06.html)
+* https://getbootstrap.com/docs/4.1/components/breadcrumb/
+
+## Buttons
+* [Demo link](demo/07.html)
+* https://getbootstrap.com/docs/4.1/components/buttons/
+
+## Button group
+* [Demo link](demo/08.html)
+* https://getbootstrap.com/docs/4.1/components/button-group/
