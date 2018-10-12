@@ -16,4 +16,8 @@
 
 ## Tables
 * [Demo link](demo/03.html)
-* Tables: https://getbootstrap.com/docs/4.1/content/tables/
+* https://getbootstrap.com/docs/4.1/content/tables/
+
+## Alerts
+* [Demo link](demo/04.html)
+* https://getbootstrap.com/docs/4.1/components/alerts/
