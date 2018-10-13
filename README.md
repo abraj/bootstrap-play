@@ -41,3 +41,63 @@
 ## Cards
 * [Demo link](demo/09.html)
 * https://getbootstrap.com/docs/4.1/components/card/
+
+## Carousel
+* [Demo link](demo/10.html)
+* https://getbootstrap.com/docs/4.1/components/carousel/
+
+## Collapse
+* [Demo link](demo/11.html)
+* https://getbootstrap.com/docs/4.1/components/collapse/
+
+## Dropdowns
+* [Demo link](demo/12.html)
+* https://getbootstrap.com/docs/4.1/components/dropdowns/
+
+## Forms
+* [Demo link](demo/13.html)
+* https://getbootstrap.com/docs/4.1/components/forms/
+
+## Input group
+* [Demo link](demo/14.html)
+* https://getbootstrap.com/docs/4.1/components/input-group/
+
+## Jumbotron
+* [Demo link](demo/15.html)
+* https://getbootstrap.com/docs/4.1/components/jumbotron/
+
+## List group
+* [Demo link](demo/16.html)
+* https://getbootstrap.com/docs/4.1/components/list-group/
+
+## Modal
+* [Demo link](demo/17.html)
+* https://getbootstrap.com/docs/4.1/components/modal/
+
+## Navs
+* [Demo link](demo/18.html)
+* https://getbootstrap.com/docs/4.1/components/navs/
+
+## Navbar
+* [Demo link](demo/19.html)
+* https://getbootstrap.com/docs/4.1/components/navbar/
+
+## Pagination
+* [Demo link](demo/20.html)
+* https://getbootstrap.com/docs/4.1/components/pagination/
+
+## Popovers
+* [Demo link](demo/21.html)
+* https://getbootstrap.com/docs/4.1/components/popovers/
+
+## Progress
+* [Demo link](demo/22.html)
+* https://getbootstrap.com/docs/4.1/components/progress/
+
+## Scrollspy
+* [Demo link](demo/23.html)
+* https://getbootstrap.com/docs/4.1/components/scrollspy/
+
+## Tooltips
+* [Demo link](demo/24.html)
+* https://getbootstrap.com/docs/4.1/components/tooltips/
