@@ -130,4 +130,17 @@
 ## Utilities
 
 ### Borders
-* ...
+* Docs: https://getbootstrap.com/docs/4.1/utilities/
+
+```
+Margin utilities: mr-{1,2,3}, mr-{}-{1,2,3}, mt ....
+Spacing utility classes: mb-4
+
+float-left, float-right
+mx-auto d-block
+text-center
+flex-column
+
+align-self-{start,center,end}
+align-items-{start,center,end}
+```
